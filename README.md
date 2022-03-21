@@ -31,4 +31,4 @@ The program then asks the user about the number until coincidences are significa
 
 <b>References</b>
 
-Vigenère Cipher - Decryption (Unknown Key) - This video was used as a reference on how to decrypt the Vigenère Cipher without knowing the key. 
+Vigenère Cipher Decryption (Unknown Key) - https://youtu.be/LaWp_Kq0cKs - This video was used as a reference on how to decrypt the Vigenère Cipher without knowing the key. 
